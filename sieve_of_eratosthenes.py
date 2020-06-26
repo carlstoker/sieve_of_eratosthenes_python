@@ -1,5 +1,7 @@
 #!/usr/bin/env python3
-"""Sieve of Eratosthenes"""
+"""Sieve of Eratosthenes
+https://en.wikipedia.org/wiki/Sieve_of_Eratosthenes
+"""
 from sys import argv
 
 
